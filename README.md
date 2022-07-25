@@ -1,5 +1,5 @@
 # dio-desafio-primary-repository
-Desafio de projeto sobre git/github
+<p>Este Repositorio foi criado para o desafio de projeto da Dio, envolvendo os ensinamento do GIT e GIHUB</p>
 ## Links Úteis
 [Sintaxe basica Markdown](https://www.markdownguide.org/basic-syntax)<br>
 [Html tutorial](https://www.w3schools.com/html/)<br>
